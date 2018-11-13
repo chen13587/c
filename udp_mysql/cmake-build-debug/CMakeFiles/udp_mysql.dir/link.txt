@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/udp_mysql.dir/main.cpp.o CMakeFiles/udp_mysql.dir/udp_server.cpp.o CMakeFiles/udp_mysql.dir/mysql_server.cpp.o CMakeFiles/udp_mysql.dir/tool.cpp.o  -o udp_mysql -lmysqlclient 

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chen/桌面/C++ project/udp_mysql/mysql_server.cpp
+mysql_server.h
+/home/chen/桌面/C++ project/udp_mysql/mysql_server.h
+tool.h
+/home/chen/桌面/C++ project/udp_mysql/tool.h
+stdbool.h
+-
+
+/home/chen/桌面/C++ project/udp_mysql/mysql_server.h
+iostream
+-
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+string.h
+-
+mysql/mysql.h
+-
+
+/home/chen/桌面/C++ project/udp_mysql/tool.h
+stdio.h
+-
+iostream
+/home/chen/桌面/C++ project/udp_mysql/iostream
+

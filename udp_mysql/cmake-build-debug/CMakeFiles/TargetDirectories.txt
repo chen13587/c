@@ -1,0 +1,3 @@
+/home/chen/桌面/C++ project/udp_mysql/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chen/桌面/C++ project/udp_mysql/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chen/桌面/C++ project/udp_mysql/cmake-build-debug/CMakeFiles/udp_mysql.dir
